@@ -1,3 +1,5 @@
 .vscode/
 pict/
 build/
+.DS_Store
+.idea/
